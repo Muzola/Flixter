@@ -82,3 +82,5 @@ gem "mini_magick"
 gem 'carrierwave-aws'
 gem 'stripe'
 gem 'ranked-model'
+gem 'pry', '~> 0.12.2'
+gem 'jquery-ui-rails'
